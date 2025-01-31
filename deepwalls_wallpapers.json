@@ -1,74 +1,100 @@
-[
-	    {
-            "name":"Collection2_1",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Collection2_1.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Collection2_1.jpg",
-            "collections":"Collection2",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        },
-		{
-            "name":"Collection2_2",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Collection2_2.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Collection2_2.jpg",
-            "collections":"Collection2",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        },
-		{
-            "name":"Collection2_3",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Collection2_3.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Collection2_3.jpg",
-            "collections":"Collection2",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        },
-		{
-            "name":"Collection2_4",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Collection2_4.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Collection2_4.jpg",
-            "collections":"Collection2",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        },
-		{
-            "name":"Collection1_1",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Collection1_1.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Collection1_1.jpg",
-            "collections":"Collection1",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        },
-		{
-            "name":"Collection1_2",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Collection1_2.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Collection1_2.jpg",
-            "collections":"Collection1",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        },
-		{
-            "name":"Collection1_3",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Collection1_3.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Collection1_3.jpg",
-            "collections":"Collection1",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        },
-		{
-            "name":"Collection1_4",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Collection1_4.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Collection1_4.jpg",
-            "collections":"Collection1",
-			"dimensions":"1440x3200" ,
-			"copyright":"PizzApp Design - All Rights Reserved" ,
-			"downloadable":true
-        }
-    ]
+{
+  "wallpapers": [
+    {
+      "id": "1",
+      "name": "Wallpaper2_1",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_1.jpg",
+      "collection": "Collection2",
+      "isFree": true,
+      "isPremium": false,
+      "downloadable": true,
+      "applyable": true,
+      "tags": ["nature", "landscape"]
+    },
+    {
+      "id": "2",
+      "name": "Wallpaper2_2",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_2.jpg",
+      "collection": "Collection2",
+      "isFree": false,
+      "isPremium": true,
+      "downloadable": false,
+      "applyable": false,
+      "tags": ["abstract", "modern"]
+    },
+    {
+      "id": "3",
+      "name": "Wallpaper2_3",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_3.jpg",
+      "collection": "Collection2",
+      "isFree": false,
+      "isPremium": true,
+      "downloadable": false,
+      "applyable": false,
+      "tags": ["art", "colorful"]
+    },
+	{
+      "id": "4",
+      "name": "Wallpaper2_4",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_4.jpg",
+      "collection": "Collection2",
+      "isFree": false,
+      "isPremium": true,
+      "downloadable": false,
+      "applyable": false,
+      "tags": ["art", "colorful"]
+    },
+	{
+      "id": "5",
+      "name": "Wallpaper1_1",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_1.jpg",
+      "collection": "Collection1",
+      "isFree": true,
+      "isPremium": false,
+      "downloadable": true,
+      "applyable": true,
+      "tags": ["nature", "landscape"]
+    },
+    {
+      "id": "6",
+      "name": "Wallpaper1_2",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_2.jpg",
+      "collection": "Collection1",
+      "isFree": false,
+      "isPremium": true,
+      "downloadable": false,
+      "applyable": false,
+      "tags": ["abstract", "modern"]
+    },
+    {
+      "id": "7",
+      "name": "Wallpaper2_3",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_3.jpg",
+      "collection": "Collection1",
+      "isFree": false,
+      "isPremium": true,
+      "downloadable": false,
+      "applyable": false,
+      "tags": ["art", "colorful"]
+    },
+	{
+      "id": "8",
+      "name": "Wallpaper2_4",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_4.jpg",
+      "collection": "Collection1",
+      "isFree": false,
+      "isPremium": true,
+      "downloadable": false,
+      "applyable": false,
+      "tags": ["art", "colorful"]
+    }
+  ]
+}
