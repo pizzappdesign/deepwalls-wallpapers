@@ -3,8 +3,8 @@
     {
       "id": "1",
       "name": "Wallpaper2_1",
-      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_1.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Wallpaper2_1.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Wallpaper2_1.jpg",
       "collection": "Collection2",
       "isFree": true,
       "isPremium": false,
@@ -15,8 +15,8 @@
     {
       "id": "2",
       "name": "Wallpaper2_2",
-      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_2.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Wallpaper2_2.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Wallpaper2_2.jpg",
       "collection": "Collection2",
       "isFree": false,
       "isPremium": true,
@@ -27,8 +27,8 @@
     {
       "id": "3",
       "name": "Wallpaper2_3",
-      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_3.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_3.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Wallpaper2_3.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Wallpaper2_3.jpg",
       "collection": "Collection2",
       "isFree": false,
       "isPremium": true,
@@ -36,23 +36,23 @@
       "applyable": false,
       "tags": ["art", "colorful"]
     },
-	{
+    {
       "id": "4",
       "name": "Wallpaper2_4",
-      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper2_4.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper2_4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection2/Wallpaper2_4.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection2/Wallpaper2_4.jpg",
       "collection": "Collection2",
       "isFree": false,
       "isPremium": true,
       "downloadable": false,
       "applyable": false,
-      "tags": ["art", "colorful"]
+      "tags": ["minimal", "dark"]
     },
-	{
+    {
       "id": "5",
       "name": "Wallpaper1_1",
       "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_1.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_1.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_1.jpg",
       "collection": "Collection1",
       "isFree": true,
       "isPremium": false,
@@ -64,7 +64,7 @@
       "id": "6",
       "name": "Wallpaper1_2",
       "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_2.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_2.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_2.jpg",
       "collection": "Collection1",
       "isFree": false,
       "isPremium": true,
@@ -74,9 +74,9 @@
     },
     {
       "id": "7",
-      "name": "Wallpaper2_3",
+      "name": "Wallpaper1_3",
       "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_3.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_3.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_3.jpg",
       "collection": "Collection1",
       "isFree": false,
       "isPremium": true,
@@ -84,17 +84,17 @@
       "applyable": false,
       "tags": ["art", "colorful"]
     },
-	{
+    {
       "id": "8",
-      "name": "Wallpaper2_4",
+      "name": "Wallpaper1_4",
       "imageUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Wallpapers/Collection1/Wallpaper1_4.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_4.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pizzappdesign/deepwalls-wallpapers/main/Thumbnails/Collection1/Wallpaper1_4.jpg",
       "collection": "Collection1",
       "isFree": false,
       "isPremium": true,
       "downloadable": false,
       "applyable": false,
-      "tags": ["art", "colorful"]
+      "tags": ["minimal", "dark"]
     }
   ]
 }
